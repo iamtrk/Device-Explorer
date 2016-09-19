@@ -9,3 +9,9 @@ Homepage CPU & RAM Usage gets updated every second. Kernel Usage.
 <img src="https://raw.githubusercontent.com/iamtrk/Device-Explorer/master/screenshots/home.png" height="714" width="400">
 <img src="https://raw.githubusercontent.com/iamtrk/Device-Explorer/master/screenshots/kernel.png" height="714" width="400">
 </p>
+
+#Features:
+
+## CPU Information.
+## UPTIME.
+## Build data.
