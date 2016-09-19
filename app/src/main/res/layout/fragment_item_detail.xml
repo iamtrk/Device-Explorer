@@ -1,0 +1,21 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/SCROLLER_ID"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"
+    android:background="#E0E0E0"
+    android:fillViewport="true">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/item_detail"
+            style="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            tools:context=".ItemDetailFragment" />
+    </ScrollView>
+</android.support.v7.widget.CardView>
