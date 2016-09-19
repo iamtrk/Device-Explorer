@@ -6,5 +6,4 @@ Android device explorer
 
 Homepage CPU & RAM Usage gets updated every second.
 <img src="https://raw.githubusercontent.com/iamtrk/Device-Explorer/master/screenshots/home.png" height="714" width="400">
-
 <img src="https://raw.githubusercontent.com/iamtrk/Device-Explorer/master/screenshots/kernel.png" height="714" width="400">
