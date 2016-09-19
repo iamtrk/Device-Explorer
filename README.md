@@ -2,20 +2,20 @@
 
 Android device explorer
 
-#Features:
+##Features:
 
-##### CPU Information.
-##### Root checker.
-##### Encryption checker.
-##### Battery information.
-##### Diskstats.
-##### Configuration data.
-##### UPTIME.
-##### Build data.
-##### Available Sensors Data.
-##### Load Average 
-##### Input devices data
-##### Ids like IMEI, MAC etc.
+*CPU Information.
+*Root checker.
+*Encryption checker.
+*Battery information.
+*Diskstats.
+*Configuration data.
+*UPTIME.
+*Build data.
+*Available Sensors Data.
+*Load Average 
+*Input devices data
+*Ids like IMEI, MAC etc.
 
 Homepage CPU & RAM Usage gets updated every second. Kernel Usage.
 <p align="center">
